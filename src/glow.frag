@@ -1,10 +1,3 @@
-//----------------------------------------------------------------------------------
-// File:   shadow_single_fragment.glsl
-// Author: Rouslan Dimitrov
-// Email:  sdkfeedback@nvidia.com
-// Cascaded shadows maps, single shadow sample
-// Copyright (c) NVIDIA Corporation. All rights reserved.
-//----------------------------------------------------------------------------------
 
 #version 120
 #extension GL_EXT_texture_array : enable
