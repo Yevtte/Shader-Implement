@@ -1,6 +1,6 @@
-# Shader-Implement
+# Shader example
 
-| shader | display |    |
+| shader | render |    |
 | --- | --- | --- | 
 | gooch shader | ![image text](https://github.com/Yevtte/Shader-Implement/raw/master/doc/gooch_shader.png) |
 | fog | ![image text](https://github.com/Yevtte/Shader-Implement/raw/master/doc/fog1.png) | ![image text](https://github.com/Yevtte/Shader-Implement/raw/master/doc/fog2.png) | 
